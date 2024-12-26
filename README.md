@@ -1,4 +1,4 @@
-# Astrophysical Calculator
+## Astrophysical Calculator
 
 Astrophysical Calculator is a Python-based tool designed for astrophysics enthusiasts and students. It performs basic astrophysical calculations such as:
 1. **Luminosity of a Star**
@@ -14,3 +14,5 @@ Astrophysical Calculator is a Python-based tool designed for astrophysics enthus
 ## Screenshot
 
 ![Main Menu](astro_calculator.png)
+
+© mdkhademali
